@@ -7,7 +7,7 @@ Folgend werden die Bauphasen für unser kleiner Projekt angeführt:
 
 4.) Bodenplatte herstellen
 
-5.) Arbeitsfuge nicht bearbeiten
+5.) Arbeitsfuge gründlich bearbeiten
 
 6.) Schal- und Bewehrungsarbeiten
 
